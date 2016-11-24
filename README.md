@@ -17,3 +17,4 @@ of ES6 features. That's  another reason to use babel.
 
 Some good resources that I found while learning about these features:
 * [ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
+* [ES6 features](https://github.com/lukehoban/es6features)
