@@ -1,0 +1,3 @@
+const SOME_WEIRD_CONSTANT = 'AbC123';
+
+console.log(SOME_WEIRD_CONSTANT);
