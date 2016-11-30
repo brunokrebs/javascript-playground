@@ -1,12 +1,13 @@
-# ECMAScript 6 playground
+# ECMAScript playground
 
-Here I will play with ECMAScript 6 features to help me learn them.
+Here I will play with ECMAScript (any version) features to help me learn them.
 
 ## NodeJS support
 
-Some features, like the new [import statement](http://es6-features.org/#ValueExportImport) are still not supported
-by NodeJS (last checked import statement on NodeJS 7.2), so I use babel with the 'latest' preset to compile my code
-to ECMAScript 5.
+Some features, like the new
+[import statement](http://es6-features.org/#ValueExportImport) are still not
+supported by NodeJS (e.g. last checked import statement on NodeJS 7.2), so I use
+babel with the 'latest' preset to compile my code to ECMAScript 5.
 
 ## Browser support
 
