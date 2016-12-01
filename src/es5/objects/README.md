@@ -21,7 +21,7 @@ console.log(`And my name is still ${singer['name']}`); // Elvys Presley
 ```
 
 See, you can access object's properties in a way that is very similar with
-normal arrays. Besides that, you can even iterate in a for..in loop on object
+normal arrays. Besides that, you can even iterate in a `for..in` loop on object
 properties. Wanna see?
 
 ```js
