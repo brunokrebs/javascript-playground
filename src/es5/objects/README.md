@@ -41,3 +41,7 @@ for (let prop in singer) {
 // type: Singer
 // dob: January 8, 1935
 ```
+
+### References
+
+- [Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
