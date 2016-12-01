@@ -16,7 +16,8 @@ console.log(singer[0]); // nooo, not like that
 console.log(singer['name']); // like that
 
 singer[0] = 'Does this works?';
-console.log(singer[0] ? 'Now it DOES work!' : 'Nope.'); // Yes, it does.
+console.log(singer[0] ? 'Now it DOES work!' : 'Nope.'); // Now it DOES work!
+console.log(`And my name is still ${singer['name']}`); // Elvys Presley
 ```
 
 See, you can access object's properties in a way that is very similar with
