@@ -2,6 +2,16 @@
 
 Here I will play with ECMAScript (any version) features to help me learn them.
 
+## To study list (not in order):
+
+- Hidden classes in javascript vms
+- [Angular AoT compiler](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
+- [Angular Universal](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.i0pa0kaza)
+- [RxJS](https://xgrommx.github.io/rx-book/why_rx.html)
+- [Angular change detection](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c#.rtatwndau)
+- [Angular testing guide](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.y114vc9f3)
+- [Javascript generators](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
+
 ## NodeJS support
 
 Some features, like the new
