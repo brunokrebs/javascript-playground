@@ -5,6 +5,7 @@ Here I will play with ECMAScript (any version) features to help me learn them.
 ## To study list (not in order):
 
 - [The Angular 2 Compiler](https://www.youtube.com/watch?v=kW9cJsvcsGo)
+- [Angular 4 Announcement](https://www.youtube.com/watch?v=aJIMoLgqU_o&feature=youtu.be&t=9m10s)
 - Hidden classes in javascript vms
 - [Angular AoT compiler](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
 - [Angular Universal](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.i0pa0kaza)
